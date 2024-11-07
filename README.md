@@ -18,3 +18,4 @@ HabitZen es una aplicación que ayuda a los usuarios a construir y mantener háb
  * Diseño: Herramientas como Figma o Sketch te ayudarán a crear interfaces de usuario atractivas y intuitivas.
  * Gestión de versiones: Utiliza un sistema de control de versiones como Git para gestionar el código de tu proyecto.
  * Pruebas: Realiza pruebas exhaustivas para asegurar la calidad y el rendimiento de tu app.
+
